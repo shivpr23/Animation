@@ -43,7 +43,7 @@ Contributions are welcome! Feel free to fork the repository and submit a pull re
 This project is licensed under the MIT License.
 
 ## 📧 Contact
-For any inquiries, reach out to [myEmail-shivapratap124@gmail.com](mailto:your-shivapratap124@.com).
+For any inquiries, reach out to [myEmail-shivapratap124@gmail.com](mailto:shivapratap124@gmail.com).
 
 Enjoy animating! 🎉
 
