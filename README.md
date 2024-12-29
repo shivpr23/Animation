@@ -6,7 +6,6 @@ This project showcases a simple animation implemented using HTML, CSS, and JavaS
 ## 🛠️ Technologies Used
 - **HTML5**: Structure of the project.
 - **CSS3**: Styling and animations.
-- **JavaScript**: Interactive functionality.
 
 ## 🚀 Features
 - Smooth animations with CSS keyframes.
@@ -17,7 +16,7 @@ This project showcases a simple animation implemented using HTML, CSS, and JavaS
 ```
 project-folder/
 ├── index.html      # Main HTML structure
-├── styles.css      # CSS animations and styling 
+├── index.css      # CSS animations and styling 
 └── images          # Images or other resources
 ```
 
@@ -30,7 +29,7 @@ project-folder/
 3. Enjoy the animations!
 
 ## 🧩 Customization
-- Modify the `styles.css` file to change animation speed, colors, or effects.
+- Modify the `index.css` file to change animation speed, colors, or effects.
 - Add more elements in `index.html` for extended animations.
 
 ## 📝 Future Improvements
@@ -44,7 +43,7 @@ Contributions are welcome! Feel free to fork the repository and submit a pull re
 This project is licensed under the MIT License.
 
 ## 📧 Contact
-For any inquiries, reach out to [your-email@example.com](mailto:your-shivapratap124@.com).
+For any inquiries, reach out to [myEmail-shivapratap124@gmail.com](mailto:your-shivapratap124@.com).
 
 Enjoy animating! 🎉
 
